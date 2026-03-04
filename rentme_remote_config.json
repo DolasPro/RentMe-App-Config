@@ -1,6 +1,6 @@
 {
   "config": {
-    "ios_required_version": "1.9.3",
+    "ios_required_version": "1.9.4",
     "android_required_version": "1.9.8"
   }
 }
