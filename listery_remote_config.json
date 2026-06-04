@@ -1,0 +1,22 @@
+{
+  "ios": {
+    "minVersion": "1.4.190",
+    "url": "https://apps.apple.com/app/id1537225707"
+  },
+  "android": {
+    "minVersion": "1.4.190",
+    "url": "https://play.google.com/store/apps/details?id=com.listery.app"
+  },
+  "title": {
+    "ru": "Необходимо обновление",
+    "en": "Update required",
+    "uk": "Потрібне оновлення",
+    "pl": "Wymagana aktualizacja"
+  },
+  "message": {
+    "ru": "Обновите приложение, чтобы продолжить.",
+    "en": "Please update to continue.",
+    "uk": "Оновіть застосунок, щоб продовжити.",
+    "pl": "Zaktualizuj aplikację, aby kontynuować."
+  }
+}
