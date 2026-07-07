@@ -1,7 +1,7 @@
 {
   "config": {
     "ios_required_version": "1.9.11",
-    "android_required_version": "1.9.11"
+    "android_required_version": "1.9.11",
     "services_sticky_bar_enabled": true,
     "amenity_filters": {
       "has_balcony": true,
